@@ -19,8 +19,8 @@ Submit a Pull Request (PR).
 
 ---
 
-### ⚙️ [features-changes](https://discord.com/channels/229936715383439361/1440632787903316101)
-Propose **new features, gameplay tweaks, or balance changes**. (This is done via Discord) 
+### ⚙️ [features-changes](https://github.com/orgs/SAESRPG/discussions)
+Propose **new features, gameplay tweaks, or balance changes**.
 Use this space for creative suggestions and system improvements to enhance player experience.
 
 ---
