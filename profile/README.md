@@ -14,7 +14,8 @@ Please include steps to reproduce, expected behaviour, and any relevant screensh
 
 ### 🚗 [vehicle-wraps](https://github.com/saesrpg/vehicle-wraps)
 Submit **vehicle wrap requests** here.  
-Ensure your request follows the format provided in the issue template (including vehicle model, gang/group, and wrap preview).
+Fork the repository and add your wraps.
+Submit a Pull Request (PR).
 
 ---
 
